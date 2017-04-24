@@ -15,3 +15,6 @@ news-get-top.py  获取标签中的处于前几位的标签
    2 python test-mysql.py创建表
    3 cd tornado web  执行python web监听本机8999端口 
    
+pip install PyExecJs
+python news-foreign.py
+   
